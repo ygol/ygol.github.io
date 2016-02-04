@@ -1,2 +1,3 @@
 name: HYves Goldberg, Ygol InterNetworking
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
