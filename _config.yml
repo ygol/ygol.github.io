@@ -16,12 +16,15 @@ footer: Yves Goldberg
 social:
   - title: twitter
     url: https://twitter.com/ygol
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/ygol
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+
+  - title: Quora
+    url: https://www.quora.com/profile/Yves-Goldberg
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/ygol
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/ygol
 
